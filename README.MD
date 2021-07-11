@@ -38,3 +38,7 @@ retorna para o app.js
 importar o arquivo criado na database
 
 const livros = require('./database')
+
+para rodar no node.js dar comando 
+
+npm start
